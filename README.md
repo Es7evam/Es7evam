@@ -1,5 +1,15 @@
-### Hi there 👋
+### Whoami
+- Computer Engineer graduated by University of São Paulo
+- Security and Competitive programming enthusiast
+- Former Microsoft Security Intern
 
+<p align="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=Es7evam"/>
+<p>
+  
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?theme=gruvbox&margin-w=8&column=7&username=Es7evam" alt="Trophies" />
+</a></p>
 <!--
 **Es7evam/Es7evam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
