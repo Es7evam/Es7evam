@@ -1,7 +1,13 @@
 ### Whoami
+[![Twitter Badge](https://img.shields.io/badge/-Es7evam-blue?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/Es7evam/)
+[![Linkedin Badge](https://img.shields.io/badge/-EstevamArantes-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/EstevamArantes/)
 - Computer Engineer graduated by University of São Paulo
 - Security and Competitive programming enthusiast
 - Former Microsoft Security Intern
+
+Some of my projects that are not in my personal Github can be found in ![here](https://github.com/GANESH-ICMC).
+
+If you're somewhat interested in computer security and speak portuguese, check out ![Ganesh ICMC Gitbook](https://gitbook.ganeshicmc.com) which I helped create.
 
 <p align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=Es7evam"/>
@@ -10,17 +16,3 @@
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?theme=gruvbox&margin-w=8&column=7&username=Es7evam" alt="Trophies" />
 </a></p>
-<!--
-**Es7evam/Es7evam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
