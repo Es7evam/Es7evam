@@ -1,9 +1,10 @@
 ### Whoami
 [![Twitter Badge](https://img.shields.io/badge/-Es7evam-blue?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/Es7evam/)
 [![Linkedin Badge](https://img.shields.io/badge/-EstevamArantes-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/EstevamArantes/)
+- Security Software Engineer at Microsoft 
 - Computer Engineer graduated by University of São Paulo
-- Security and Competitive programming enthusiast
-- Former Microsoft Security Intern
+- Security (CTFs)s and Competitive programming enthusiast
+
 
 Some of my projects that are not in my personal Github can be found in [here](https://github.com/GANESH-ICMC).
 
