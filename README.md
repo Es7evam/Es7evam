@@ -1,7 +1,7 @@
 ### Whoami
 [![Twitter Badge](https://img.shields.io/badge/-Es7evam-blue?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/Es7evam/)
 [![Linkedin Badge](https://img.shields.io/badge/-EstevamArantes-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/EstevamArantes/)
-- Security Software Engineer at Microsoft - [Work Account](https://github.com/Estevam-MSFT)
+- Security Software Engineer at Microsoft - [My work-related account](https://github.com/Estevam-MSFT)
 - Computer Engineer graduated by University of São Paulo
 - Security (CTFs)s and Competitive programming enthusiast
 
