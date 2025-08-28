@@ -13,7 +13,3 @@ If you're somewhat interested in computer security and speak portuguese, check o
 <p align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=Es7evam"/>
 <p>
-  
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?theme=gruvbox&margin-w=8&column=7&username=Es7evam" alt="Trophies" />
-</a></p>
