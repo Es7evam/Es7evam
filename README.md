@@ -9,7 +9,3 @@
 Some of my projects that are not in my personal Github can be found in [here](https://github.com/GANESH-ICMC).
 
 If you're somewhat interested in computer security and speak portuguese, check out [Ganesh ICMC Gitbook](https://gitbook.ganeshicmc.com) which I helped create.
-
-<p align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=Es7evam"/>
-<p>
