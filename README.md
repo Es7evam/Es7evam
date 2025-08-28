@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-EstevamArantes-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/EstevamArantes/)
 - Security Software Engineer at Microsoft - [My work-related account](https://github.com/EstevamArantes)
 - Computer Engineer graduated by University of São Paulo
-- Security (CTFs)s and Competitive programming enthusiast
+- Security and Competitive programming enthusiast
 
 
 Some of my projects that are not in my personal Github can be found in [here](https://github.com/GANESH-ICMC).
